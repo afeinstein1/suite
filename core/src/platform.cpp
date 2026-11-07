@@ -1,0 +1,6 @@
+namespace platform
+{
+    void initialize()
+    {
+    }
+}

@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Documents/code/suite/build/cmake_install.cmake",
+		"C:/Documents/code/suite/build/core/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,6 @@
+C:/Documents/code/suite/build/CMakeFiles/edit_cache.dir
+C:/Documents/code/suite/build/CMakeFiles/rebuild_cache.dir
+C:/Documents/code/suite/build/core/CMakeFiles/platform_core.dir
+C:/Documents/code/suite/build/core/CMakeFiles/platform_app.dir
+C:/Documents/code/suite/build/core/CMakeFiles/edit_cache.dir
+C:/Documents/code/suite/build/core/CMakeFiles/rebuild_cache.dir

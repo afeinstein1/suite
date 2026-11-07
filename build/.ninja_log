@@ -1,0 +1,5 @@
+# ninja log v7
+11	60	8157846837113025	core/CMakeFiles/platform_core.dir/src/platform.cpp.obj	ae0187cc9af95a8f
+60	216	8157846837613030	core/libplatform_core.a	fbe84f2af50e0829
+14	795	8157846837153030	core/CMakeFiles/platform_app.dir/src/main.cpp.obj	f0644f39a51b1b10
+796	897	8157846844964729	core/platform_app.exe	6b1d782e3d11d327
