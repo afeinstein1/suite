@@ -81,6 +81,14 @@ build core/CMakeFiles/platform_core.dir/src/platform.cpp.obj: CXX_COMPILER__plat
   OBJECT_FILE_DIR = core\CMakeFiles\platform_core.dir\src
   TARGET_SUPPORT_DIR = core\CMakeFiles\platform_core.dir
 
+build core/CMakeFiles/platform_core.dir/src/logger.cpp.obj: CXX_COMPILER__platform_core_unscanned_ C$:/Documents/code/suite/core/src/logger.cpp || cmake_object_order_depends_target_platform_core
+  DEP_FILE = core\CMakeFiles\platform_core.dir\src\logger.cpp.obj.d
+  FLAGS = -std=c++20
+  INCLUDES = -IC:/Documents/code/suite/core/include
+  OBJECT_DIR = core\CMakeFiles\platform_core.dir
+  OBJECT_FILE_DIR = core\CMakeFiles\platform_core.dir\src
+  TARGET_SUPPORT_DIR = core\CMakeFiles\platform_core.dir
+
 
 # =============================================================================
 # Link build statements for STATIC_LIBRARY target platform_core
@@ -89,7 +97,7 @@ build core/CMakeFiles/platform_core.dir/src/platform.cpp.obj: CXX_COMPILER__plat
 #############################################
 # Link the static library core\libplatform_core.a
 
-build core/libplatform_core.a: CXX_STATIC_LIBRARY_LINKER__platform_core_ core/CMakeFiles/platform_core.dir/src/platform.cpp.obj
+build core/libplatform_core.a: CXX_STATIC_LIBRARY_LINKER__platform_core_ core/CMakeFiles/platform_core.dir/src/platform.cpp.obj core/CMakeFiles/platform_core.dir/src/logger.cpp.obj
   OBJECT_DIR = core\CMakeFiles\platform_core.dir
   POST_BUILD = cd .
   PRE_LINK = cd .

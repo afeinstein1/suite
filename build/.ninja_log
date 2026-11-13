@@ -1,5 +1,10 @@
 # ninja log v7
-11	60	8157846837113025	core/CMakeFiles/platform_core.dir/src/platform.cpp.obj	ae0187cc9af95a8f
-60	216	8157846837613030	core/libplatform_core.a	fbe84f2af50e0829
-14	795	8157846837153030	core/CMakeFiles/platform_app.dir/src/main.cpp.obj	f0644f39a51b1b10
-796	897	8157846844964729	core/platform_app.exe	6b1d782e3d11d327
+16	69	8162919399025000	core/CMakeFiles/platform_core.dir/src/platform.cpp.obj	ae0187cc9af95a8f
+226	292	8162920547095387	core/libplatform_core.a	42fdae133519cb50
+19	226	8162919399065007	core/CMakeFiles/platform_app.dir/src/main.cpp.obj	f0644f39a51b1b10
+292	383	8162920547748181	core/platform_app.exe	6b1d782e3d11d327
+20	226	8162920545036459	core/CMakeFiles/platform_core.dir/src/logger.cpp.obj	6af2aac82af0e19e
+20	230	8162930080351506	core/CMakeFiles/platform_app.dir/src/main.cpp.obj	f0644f39a51b1b10
+16	231	8162930080311495	core/CMakeFiles/platform_core.dir/src/platform.cpp.obj	ae0187cc9af95a8f
+231	297	8162930082461904	core/libplatform_core.a	42fdae133519cb50
+297	380	8162930083116656	core/platform_app.exe	6b1d782e3d11d327
