@@ -1,5 +1,6 @@
 
 #include <iostream>
+#include "platform.hpp"
 
 int main()
 {

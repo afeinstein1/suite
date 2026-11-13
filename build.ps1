@@ -19,3 +19,7 @@ if ($LASTEXITCODE -ne 0) {
 }
 
 Write-Host "Build completed successfully!" -ForegroundColor Green
+
+Write-Host "Running!" -ForegroundColor Cyan
+
+./build/core/platform_app.exe
