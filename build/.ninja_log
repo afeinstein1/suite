@@ -1,10 +1,11 @@
 # ninja log v7
-16	69	8162919399025000	core/CMakeFiles/platform_core.dir/src/platform.cpp.obj	ae0187cc9af95a8f
-226	292	8162920547095387	core/libplatform_core.a	42fdae133519cb50
-19	226	8162919399065007	core/CMakeFiles/platform_app.dir/src/main.cpp.obj	f0644f39a51b1b10
-292	383	8162920547748181	core/platform_app.exe	6b1d782e3d11d327
+17	370	8163946177555362	core/CMakeFiles/platform_core.dir/src/platform.cpp.obj	ae0187cc9af95a8f
+382	457	8163946444896778	core/libplatform_core.a	a4471d68fd2091c0
+26	244	8163937793525549	core/CMakeFiles/platform_app.dir/src/main.cpp.obj	f0644f39a51b1b10
+457	561	8163946445641955	core/platform_app.exe	6b1d782e3d11d327
 20	226	8162920545036459	core/CMakeFiles/platform_core.dir/src/logger.cpp.obj	6af2aac82af0e19e
-20	230	8162930080351506	core/CMakeFiles/platform_app.dir/src/main.cpp.obj	f0644f39a51b1b10
-16	231	8162930080311495	core/CMakeFiles/platform_core.dir/src/platform.cpp.obj	ae0187cc9af95a8f
-231	297	8162930082461904	core/libplatform_core.a	42fdae133519cb50
-297	380	8162930083116656	core/platform_app.exe	6b1d782e3d11d327
+21	253	8163946177590460	core/CMakeFiles/platform_core.dir/src/config.cpp.obj	fad996fd1a28a158
+16	382	8163946441234398	core/CMakeFiles/platform_core.dir/src/configManager.cpp.obj	d5bd47a24ef89c9
+15	381	8163947158552562	core/CMakeFiles/platform_core.dir/src/configManager.cpp.obj	d5bd47a24ef89c9
+382	455	8163947162221686	core/libplatform_core.a	a4471d68fd2091c0
+455	545	8163947162952324	core/platform_app.exe	6b1d782e3d11d327

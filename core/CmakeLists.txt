@@ -2,6 +2,8 @@
 add_library(platform_core STATIC
     src/platform.cpp
     src/logger.cpp
+    src/config.cpp
+    src/configManager.cpp
 )
 
 target_include_directories(platform_core

@@ -1,10 +1,15 @@
 #pragma once
 
 #include <map>
-#include "config.hpp"
+
+#include <memory>
+#include "configManaged.hpp"
 
 struct ConfigManager
 {
-    std::map<int, ConfigManaged> configs;
+    std::map<decltype(ConfigManaged::id), std::unique_ptr<ConfigManaged>> configs;
+
+    void addConfig(std::unique_ptr<ConfigManaged> config);
+    void writeConfigs();
 
 };

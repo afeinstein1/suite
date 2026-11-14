@@ -3,4 +3,5 @@
 namespace Platform
 {
     void initialize();
+    void devTests();
 }
