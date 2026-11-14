@@ -1,10 +1,11 @@
 
 #include <iostream>
+#include "headers/platform.hpp"
+#include "headers/logger.hpp"
 
 int main()
-{
-    std::cout << "Productivity Platform Core" << std::endl;
-    std::cout << "Build environment initialized!" << std::endl;
+{   
+    Platform::initialize();
 
     return 0;
 }
