@@ -11,5 +11,6 @@ struct ConfigManager
 
     void addConfig(std::unique_ptr<ConfigManaged> config);
     void writeConfigs();
+    void pullConfigs();
 
 };

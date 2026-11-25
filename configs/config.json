@@ -3,6 +3,6 @@
 	"id": 1,
 	"appName": "DefaultAppName",
 	"debugEnabled": false,
-	"theme": 0,
+	"theme": 3,
 	"logLevel": 1
 }

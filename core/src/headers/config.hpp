@@ -15,6 +15,7 @@ struct Config: public ConfigManaged
     const std::string& getFileName() const override { return fileName; }
     int getId() const override { return id; }
     std::string serialize() override;
+    void deserialize(const std::string& data) override;
 
 
 };

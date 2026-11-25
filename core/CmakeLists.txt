@@ -4,6 +4,8 @@ add_library(platform_core STATIC
     src/logger.cpp
     src/config.cpp
     src/configManager.cpp
+    src/libraries/rapidjson/document.h
+    
 )
 
 target_include_directories(platform_core
